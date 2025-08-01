@@ -3970,5 +3970,23 @@
       ["cyan", "electric", "bright", "glowing"],
       ["green", "yellow", "vibrant", "energetic"]
     ]
+  },
+  {
+    "name": "US Flag",
+    "colors": ["#F00000", "#FFFFFF", "#0000FF"],
+    "colorsname": ["red", "white", "blue"],
+    "keywords": [
+      ["red", "white", "blue", "flag"],
+      ["country", "flag", "symbol", "patriotic"]
+    ]
+  },
+  {
+    "name": "Ukraine Flag",
+    "colors": ["#0057B8", "#FFD700"],
+    "colorsname": ["blue", "yellow"],
+    "keywords": [
+      ["blue", "ukraine", "flag", "patriotic"],
+      ["yellow", "ukraine", "flag", "patriotic"]
+    ]
   }
-]
+] 
